@@ -1,0 +1,9 @@
+.header{
+    font-family: 'Lobster';
+    border:1px solid black;
+    background: rgb(206, 92, 92);
+}
+
+.header-text{
+    color: rgb(48, 38, 38);
+}
